@@ -1,8 +1,8 @@
 # hello-world
 My first Repository
 
-Hi Humans!
+Hi!
 
 My name is Nattam Lokesh.
 I am an ISI Alumunus.
-Presently looking for a full time job opportunuty.
+I am new to programming.
